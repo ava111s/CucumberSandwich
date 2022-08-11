@@ -1,0 +1,22 @@
+{
+  "name": "cucumber-sandwich",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ava111s/CucumberSandwich.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ava111s/CucumberSandwich/issues"
+  },
+  "homepage": "https://github.com/ava111s/CucumberSandwich#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.5.1"
+  }
+}
